@@ -1,0 +1,9 @@
+Package: com.nichojoshua.redswitch
+Name: RedSwitch
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Change enable switch color to RED!
+Maintainer: NichoJoshua <nichojoshua26@gmail.com>
+Author: NichoJoshua <nichojoshua26@gmail.com>
+Section: Tweaks
